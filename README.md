@@ -1,5 +1,5 @@
-# Hello World example
-
+# 과제 제출용 코드샌드박스 링크 첨부
+[link](https://codesandbox.io/p/github/hyeonheebee/react-study-final-challenge-repack-)
 ## How to use
 
 ### Using `create-next-app`
