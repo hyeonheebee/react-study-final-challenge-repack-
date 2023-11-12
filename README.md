@@ -10,7 +10,7 @@
 로그인 => 계정 있을경우 로그인 후 기능 가능 
 
 <p align="center">
-<img src="https://github.com/hyeonheebee/react-study-final-challenge-repack-/assets/97822063/f67173c9-b9de-44e4-aef0-63b815b56867">
+<img src="https://github.com/hyeonheebee/react-study-final-challenge-repack-/assets/97822063/6a11b4c1-e3c9-43c1-9269-4962925d8d4c">
 </p>
 
 
