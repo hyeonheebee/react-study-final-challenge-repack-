@@ -1,5 +1,12 @@
-# 과제 제출용 코드샌드박스 링크 첨부
-[link](https://codesandbox.io/p/github/hyeonheebee/react-study-final-challenge-repack-)
+## 과제 제출용 코드샌드박스 링크 첨부
+[과제 제출용 코드샌드박스 링크 입니다 link](https://codesandbox.io/p/github/hyeonheebee/react-study-final-challenge-repack-)
+
+혹시 정상제출 확인이 불가한 경우 확인해주시면 정말 감사드립니다! 
+(현재 코드샌드박스에서 잘 동작하고 있습니다) 
+
+<hr />
+
+
 ## How to use
 
 ### Using `create-next-app`
